@@ -5,6 +5,7 @@ A collection of info about all ui libraries to help to choose the best choice fo
 | Library          | Engine  | [Components?](#components) | [Utilities?](#utilities) | JS framework             |
 |------------------|---------|-------------|------------|--------------------------|
 | [Bootstrap](https://getbootstrap.com/)        | Sass    | ✅           | ✅          | [Angular](https://ng-bootstrap.github.io/#/home), [React](https://react-bootstrap.github.io/), [Vue](https://bootstrap-vue.org/) |
+| [Chakra UI](https://chakra-ui.com/)          | [Emotion](https://emotion.sh/) | ✅           | ✅          | React |
 | [Material UI (v4)](https://material-ui.com/) | JSS     | ✅           | ✅          | React                    |
 | [Tailwindcss](https://tailwindcss.com/)      | PostCSS | ✅ [(tailwindui)](https://tailwindui.com/components)          | ✅          | [React, Vue, Alpine](https://tailwindui.com/documentation#integrating-with-javascript-frameworks)       |
 
