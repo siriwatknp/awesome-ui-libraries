@@ -9,10 +9,10 @@ A collection of info about all ui libraries to help to choose the best choice fo
 | [Tailwindcss](https://tailwindcss.com/)      | PostCSS | ✅           | ✅          | [React, Vue, Alpine](https://tailwindui.com/documentation#integrating-with-javascript-frameworks)       |
 
 ## Glossary
-#### Components
+### Components
 if ✅, the library has ready-to-use component based on their styling engine. Ex, Button, Input, ...
 
-#### Utilities
+### Utilities
 if ✅, the library provides single property for styling. For example,
 
 **Bootstrap** has `mt-1` that add css margin proprty (based on design system) to the element.
