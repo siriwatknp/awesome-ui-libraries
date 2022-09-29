@@ -6,8 +6,11 @@ A collection of info about all ui libraries to help to choose the best choice fo
 |------------------|---------|-------------|------------|--------------------------|
 | [Bootstrap](https://getbootstrap.com/)        | Sass    | ✅           | ✅          | [Angular](https://ng-bootstrap.github.io/#/home), [React](https://react-bootstrap.github.io/), [Vue](https://bootstrap-vue.org/) |
 | [Chakra UI](https://chakra-ui.com/)          | [Emotion](https://emotion.sh/) | ✅           | ✅          | React |
-| [Material UI (v4)](https://material-ui.com/) | JSS     | ✅           | ✅          | React                    |
+| [Material UI (v4)](https://v4.mui.com/) | JSS     | ✅           | ✅          | React                    |
+| [Material UI (v5)](https://mui.com/material-ui/getting-started/overview/) | [Emotion](https://emotion.sh/), [styled-components](https://styled-components.com/) | ✅           | ✅          | React                    |
+| [Joy UI](https://mui.com/joy-ui/getting-started/overview/) | [Emotion](https://emotion.sh/), [styled-components](https://styled-components.com/) | ✅           | ✅          | React                    |
 | [Tailwindcss](https://tailwindcss.com/)      | PostCSS | ✅ [(tailwindui)](https://tailwindui.com/components)          | ✅          | [React, Vue, Alpine](https://tailwindui.com/documentation#integrating-with-javascript-frameworks)       |
+
 
 ## Glossary
 ### Components
